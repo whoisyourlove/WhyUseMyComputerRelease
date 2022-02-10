@@ -1,4 +1,4 @@
-# WhyUseMyComputerReplace
+# WhyUseMyComputerRelease
 ## - 说明
 邦宁记录仪 鼠标键盘自动记录器 支持自动上传到你的服务器 支持后台静默运行
 目前支持 鼠标 键盘 剪切板 应用切换等等的操作记录
